@@ -15,3 +15,10 @@ $ echo 'export JIRA_EMAIL="<email>"'  >> ~/.zshrc
 $ echo 'export JIRA_API_TOKEN="<token>"'  >> ~/.zshrc
 $ source ~/.zshrc
 ```
+
+# How to use slash command
+```
+$ cd /path/to/project
+$ open kiro-cil, claude, gemini, codex, opencode, etc
+$ /dev-fast <url jira or url confluence>
+```
