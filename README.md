@@ -12,7 +12,7 @@ npx skills add affaan-m/ECC --skill jira-integration
 
 Linux/Mac
 ```
-$ echo 'export JIRA_URL="<email>"'  >> ~/.zshrc
+$ echo 'export JIRA_URL="<url>"'  >> ~/.zshrc
 $ echo 'export JIRA_EMAIL="<email>"'  >> ~/.zshrc
 $ echo 'export JIRA_API_TOKEN="<token>"'  >> ~/.zshrc
 $ source ~/.zshrc
