@@ -16,14 +16,14 @@ $ echo 'export JIRA_URL="<email>"'  >> ~/.zshrc
 $ echo 'export JIRA_EMAIL="<email>"'  >> ~/.zshrc
 $ echo 'export JIRA_API_TOKEN="<token>"'  >> ~/.zshrc
 $ source ~/.zshrc
-```</br>
+```
 
 Windows
 ```
 $ setx JIRA_URL "<url>"
 $ setx JIRA_EMAIL "<email>"
 $ setx JIRA_API_TOKEN "<token>"
-```</br></br>
+```
 
 # How to use slash command
 ```
